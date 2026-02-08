@@ -1,6 +1,6 @@
 # AI Agent for a Logistics Company
 
-##Problem 
+## Problem 
 You are tasked with building an AI agent for a logistics company. The agent's goal is to
 "Minimize shipping delays for high-priority packages during a winter storm."
 ● Define the Perception module: What data sources (APIs/Sensors) will the agent
